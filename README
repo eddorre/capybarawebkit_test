@@ -1,5 +1,7 @@
 This a sample Rails 2.3.16 project created for this Capybara Webkit issue: https://github.com/thoughtbot/capybara-webkit/issues/486
 
+The Ruby version for this project should be: ree-1.8.7-2011.03
+
 Running the spec suite with Capybara Webkit enabled will produce the following error:
 
 1)
