@@ -27,4 +27,4 @@ The error occurred while evaluating nil.[]
 
 This happens because Capybara Webkit requires a version of Capybara that requires version of Ruby greater than 1.8.
 
-Downgrading to Capybara 1.1.4 and 0.12.1 fixes this.
+Downgrading to Capybara 1.1.4 and 0.12.1 fixes this. See the working_branch for more details: https://github.com/eddorre/capybarawebkit_test/tree/working_branch
