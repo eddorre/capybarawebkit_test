@@ -1,0 +1,11 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  database: cpw_development
+  host: localhost
+
+test:
+  adapter: mysql
+  encoding: utf8
+  database: cpw_test
+  host: localhost
