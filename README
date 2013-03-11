@@ -25,6 +25,6 @@ The error occurred while evaluating nil.[]
 /Users/carlos/work/planetargon/sandbox/capybarawebkit_test/vendor/ruby/1.8/gems/capybara-2.0.2/lib/capybara/dsl.rb:51:in `visit'
 /Users/carlos/work/planetargon/sandbox/capybarawebkit_test/spec/acceptance/application_spec.rb:6:
 
-This happens because Capybara Webkit requires a version of Capybara that requires version of Ruby greater than 1.8.
+This happens because Capybara Webkit requires a version of Capybara that requires a version of Ruby greater than 1.8.
 
 Downgrading to Capybara 1.1.4 and 0.12.1 fixes this. See the working_branch for more details: https://github.com/eddorre/capybarawebkit_test/tree/working_branch
